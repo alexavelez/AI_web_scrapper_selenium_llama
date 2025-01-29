@@ -8,6 +8,10 @@ This project is a Streamlit web application that scrapes website content using S
 - Splits content into batches of 25,000 characters to comply with LLM input constraints.
 - Passes processed content to Llama 3.2 for answering user queries.
 
+<img width="977" alt="image_1" src="https://github.com/user-attachments/assets/f33278eb-70ac-40ca-8964-1fd100b86c79" />
+
+
+
 ## Installation
 
 ### Prerequisites:
