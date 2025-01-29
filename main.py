@@ -14,7 +14,7 @@ if st.button("Scrape Site"):
 
     st.session_state.dom_content = cleaned_content
 
-    with st.expander("View DOM content"):
+    with st.expander("View Webpage Content"):
         st.text_area("DOM Content", cleaned_content, height=300)
     
 if "dom_content" in st.session_state:
