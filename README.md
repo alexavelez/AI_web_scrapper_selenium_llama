@@ -77,3 +77,7 @@ MIT License
 This project is a derivative work inspired by the excellent tutorial "Python AI Web Scraper Tutorial" by Tech with Tim, available at https://www.youtube.com/watch?v=Oo8-nEuDBkk.
 
 While the core structure of the project is based on Tech with Tim's tutorial, I have made significant modifications, especially regarding the scrapping logic, HTML cleaning and Llama integration.
+
+## Note
+
+To ensure the highest success rate when scraping websites, consider integrating a proxy and captcha solving service like Bright Data, Smart Proxy, or Scraping Ant. These services provide a pool of rotating residential proxies and powerful captcha solvers, which are crucial for bypassing website blocks and CAPTCHAs. While your Selenium-based scraper incorporates headers, mouse scrolling, and timed pauses to mimic human behavior, it will likely encounter limitations.
