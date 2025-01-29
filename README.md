@@ -16,12 +16,14 @@ This project is a Streamlit web application that scrapes website content using S
 - Install dependencies using:
   ```bash
   pip install -r requirements.txt
+  ```
 
 ## Usage
 
 Run the Streamlit app with:
   ```bash
   streamlit run app.py
+```
 
 ## Workflow:
 
