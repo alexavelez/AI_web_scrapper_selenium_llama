@@ -71,7 +71,7 @@ Run the Streamlit app with:
 
 -Enhancing the extraction process to handle multi-page websites.
 
-- Introducing caching mechanisms for improved efficiency.
+Introducing caching mechanisms for improved efficiency.
 
 ## License
 
